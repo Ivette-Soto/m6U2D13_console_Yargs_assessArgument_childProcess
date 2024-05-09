@@ -1,0 +1,14 @@
+{
+  "name": "m6u2d13_console_yargs",
+  "version": "1.0.0",
+  "description": "Yargs and comand lines",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ivette Soto",
+  "license": "GPL-3.0-or-later",
+  "dependencies": {
+    "yargs": "^17.7.2"
+  }
+}
